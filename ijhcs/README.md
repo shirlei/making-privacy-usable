@@ -3,7 +3,7 @@
 
 ### Paper [Making privacy usable: Bridging privacy research and practice through guidelines]([text](https://doi.org/10.1016/j.ijhcs.2026.103900))
 
-Complementar material on Zenodo: [doi.org/10.5281/zenodo.18155369](doi.org/10.5281/zenodo.18155369)
+Complementary material on Zenodo: [doi.org/10.5281/zenodo.18155369](doi.org/10.5281/zenodo.18155369)
 
 #### Directories organisation
 
