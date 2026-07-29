@@ -1,0 +1,14 @@
+Code,Guideline,Occurrences,Fully aligned,Partially aligned,Not aligned,Mean,Group,Subgroup
+GD20,GD20 - Encourage Users to Consider Privacy Implications Before Sharing Online,9,5,4,0,2.56,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+GD12,GD12 - Implement Interactive Consent Forms for Enhanced User Engagement,6,2,2,2,2.00,Controlling Information Disclosure,Managing Privacy Settings
+GD23,GD23 - Promote User Awareness and Decision-Making on Permission/Authorisation Requests,5,1,1,3,1.60,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+GD4,GD4 - Enhance Privacy Policy Communication with Automated Information Extraction,4,3,0,1,2.50,Improving Privacy Policy,Improving Privacy Policy Readability
+GD13,GD13 - Integrate Automated Tools and Custom Options for Privacy Settings,4,1,1,2,1.75,Controlling Information Disclosure,Managing Privacy Settings
+GD7,GD7 - Integrate Privacy Indicators for Informed App Selection,3,1,1,1,2.00,Controlling Information Disclosure,Managing App Permissions
+GD19,GD19 - Communicate Privacy Risk with Colour-Coded Privacy Indicators,3,2,1,0,2.67,Controlling Information Disclosure,Managing Privacy Settings
+GD24,GD24 - Enable Exploration of Data Exports,3,1,1,1,2.00,Raising Privacy Awareness,Visualising Disclosed Information
+GD5,GD5 - Enhance Privacy Policy Communication through Assessment Tools,2,1,0,1,2.00,Improving Privacy Policy,Assessing Risk and Nudging Privacy Behaviour
+GD21,GD21 - Enhance Privacy Awareness by Communicating Privacy Risks,2,1,0,1,2.00,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+GD6,GD6 - Enhance User Privacy Controls in Mobile Applications,1,1,0,0,3.00,Controlling Information Disclosure,Managing App Permissions
+GD8,GD8 - Leverage Automated Decision-Making for Enhanced User Privacy Controls in Mobile Applications,1,0,0,1,1.00,Controlling Information Disclosure,Managing App Permissions
+GD17,GD17 - Enhance Collaborative Privacy Management in Photo Sharing,1,1,0,0,3.00,Controlling Information Disclosure,Managing Privacy Settings
