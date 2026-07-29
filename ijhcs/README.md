@@ -17,5 +17,5 @@ Complementary material on Zenodo: [doi.org/10.5281/zenodo.18155369](doi.org/10.5
    
 2) Activity submission example: [en-example-evaluation-submission-upc.pdf](evaluation-activity/en-example-evaluation-submission-upc.pdf)
    
-3) Post-activity questionnaire: [en-post-activity-questionnaire.pdf](en-post-activity-questionnaire.pdf)
+3) Post-activity questionnaire: [en-post-activity-questionnaire.pdf](evaluation-activity/en-post-activity-questionnaire.pdfen-post-activity-questionnaire.pdf)
 
