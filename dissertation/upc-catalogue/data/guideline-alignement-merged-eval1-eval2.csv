@@ -1,0 +1,26 @@
+#,Code,Guideline,Occurrences,Fully aligned,Partially aligned,Not aligned,Mean,Group,Subgroup
+20,GD20,GD20 - Encourage Users to Consider Privacy Implications Before Sharing Online,11,5,6,0,2.45,Controlling Information Disclosure,Managing App Permissions
+23,GD23,GD23 - Promote User Awareness and Decision-Making on Permission/Authorisation Requests,8,1,2,5,1.5,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+2,GD2,GD2 - Implement Visual Strategies for Effective Communication of Lengthy Privacy Policies,7,4,2,1,2.43,Raising Privacy Awareness,Visualising Disclosed Information
+24,GD24,GD24 - Enable Exploration of Data Exports,7,4,2,1,2.43,Improving Privacy Policy,Improving Privacy Policy Readability
+25,GD25,GD25 - Support the Visualisation and Comprehension of Disclosed Data,7,3,2,2,2.14,Controlling Information Disclosure,Managing Privacy Settings
+4,GD4,GD4 - Enhance Privacy Policy Communication with Automated Information Extraction,6,4,1,1,2.50,Raising Privacy Awareness,
+12,GD12,GD12 - Implement Interactive Consent Forms for Enhanced User Engagement,6,2,2,2,2,Controlling Information Disclosure,Managing Privacy Settings
+13,GD13,GD13 - Integrate Automated Tools and Custom Options for Privacy Settings,5,2,1,2,2,Controlling Information Disclosure,Managing Privacy Settings
+15,GD15,GD15 - Provide Users with User-Friendly Tools to Manage Their Privacy Settings,5,2,2,1,2.2,Raising Privacy Awareness,Visualising Disclosed Information
+1,GD1,GD1 - Implement Interactive Privacy Policy Interfaces,3,1,2,0,2.33,Improving Privacy Policy,Improving Privacy Policy Visual Presentation
+3,GD3,GD3 - Incorporate Icons to Improve Privacy Policy Communication,3,2,0,1,2.33,Improving Privacy Policy,Improving Privacy Policy Visual Presentation
+5,GD5,GD5 - Enhance Privacy Policy Communication through Assessment Tools,3,2,0,1,2.33,Improving Privacy Policy,Advancing Privacy Policy Assessment
+7,GD7,GD7 - Integrate Privacy Indicators for Informed App Selection,3,1,1,1,2,Controlling Information Disclosure,Managing App Permissions
+19,GD19,GD19 - Communicate Privacy Risk with Colour-Coded Privacy Indicators,3,2,1,0,2.67,Controlling Information Disclosure,Managing Privacy Settings
+21,GD21,GD21 - Enhance Privacy Awareness by Communicating Privacy Risks,3,1,0,2,1.67,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+6,GD6,GD6 - Enhance User Privacy Controls in Mobile Applications,2,1,1,0,2.5,Controlling Information Disclosure,Managing App Permissions
+17,GD17,GD17 - Enhance Collaborative Privacy Management in Photo Sharing,2,2,0,0,3,,
+8,GD8,GD8 - Leverage Automated Decision-Making for Enhanced User Privacy Controls in Mobile Applications,1,0,0,1,1,,
+11,GD11,GD11 - Implement Integrated Personal Data Storage to Allow Users to Store and Manage Their Personal Data,1,0,0,1,1,Controlling Information Disclosure,Managing Privacy Settings
+9,GD9,GD9 - Enhance Parental Control in Smart Toys,0,0,0,0,0,Controlling Information Disclosure,Managing Privacy Settings
+10,GD10,GD10 - Explore Diverse Techniques for Privacy Control,0,0,0,0,0,Controlling Information Disclosure,Managing Privacy Settings
+14,GD14,GD14 - Leverage Personalised Recommendations for Enhanced User Management of Privacy Settings,0,0,0,0,0,Controlling Information Disclosure,Managing Multiparty Privacy
+16,GD16,GD16 - Encourage the Consideration of Interdependent Privacy Management in Cloud Applications,0,0,0,0,0,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+18,GD18,GD18 - Implement Collaborative Privacy Management for Shared Data in Social Networks,0,0,0,0,0,Controlling Information Disclosure,Managing Multiparty Privacy
+22,GD22,GD22 - Implement User-Customisable Multi-View Privacy Notifications,0,0,0,0,0,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour

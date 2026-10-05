@@ -1,0 +1,20 @@
+Code,Guideline,Occurrences,Fully aligned,Partially aligned,Not aligned,Mean,Group,Subgroup
+GD1,GD1-Implemente interfaces de políticas de privacidade interativas,6,3,3,0,2.50,Improving Privacy Policy,Improving Privacy Policy Visual Presentation
+GD2,GD2-Implemente estratégias visuais para a comunicação eficaz de políticas de privacidade,12,7,3,2,2.42,Improving Privacy Policy,Improving Privacy Policy Visual Presentation
+GD3,GD3-Incorpore ícones para melhorar a comunicação da política de privacidade,5,4,0,1,2.60,Improving Privacy Policy,Improving Privacy Policy Visual Presentation
+GD4,GD4-Melhore a comunicação da política de privacidade com extração automatizada de informações,7,5,1,1,2.57,Improving Privacy Policy,Improving Privacy Policy Readability
+GD5,GD5-Melhore a comunicação da política de privacidade por meio de ferramentas de avaliação,3,2,0,1,2.33,Improving Privacy Policy,Advancing Privacy Policy Assessment
+GD6,GD6-Melhore os controles de privacidade do usuário em aplicativos móveis,4,2,2,0,2.50,Controlling Information Disclosure,Managing App Permissions
+GD7,GD7-Integre indicadores de privacidade para seleção informada de aplicativos,3,1,1,1,2.00,Controlling Information Disclosure,Managing App Permissions
+GD8,GD8-Promova a tomada de decisão automatizada para controles de privacidade de usuário aprimorados em aplicativos móveis,1,0,0,1,1.00,Controlling Information Disclosure,Managing App Permissions
+GD11,GD11-Implemente armazenamento integrado de dados pessoais para permitir que os usuários armazenem e gerenciem seus dados pessoais,1,0,0,1,1.00,Controlling Information Disclosure,Managing Privacy Settings
+GD12,GD12-Implemente formulários de consentimento interativos para maior envolvimento do usuário,8,2,4,2,2.00,Controlling Information Disclosure,Managing Privacy Settings
+GD13,GD13-Integre ferramentas automatizadas para descoberta e aplicação de configurações de privacidade,5,2,1,2,2.00,Controlling Information Disclosure,Managing Privacy Settings
+GD15,GD15-Forneça aos usuários ferramentas fáceis de usar para gerenciar suas configurações de privacidade,10,6,3,1,2.50,Controlling Information Disclosure,Managing Privacy Settings
+GD17,GD17-Melhore o gerenciamento de privacidade colaborativa no compartilhamento de fotos,3,3,0,0,3.00,Controlling Information Disclosure,Managing Multiparty Privacy
+GD19,GD19-Comunique o risco para a privacidade com indicadores de privacidade codificados por cores,4,3,1,0,2.75,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+GD20,GD20-Incentive os usuários a considerarem as implicações para a privacidade antes do compartilhamento online,16,10,6,0,2.63,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+GD21,GD21-Aumente a conscientização sobre privacidade comunicando riscos de privacidade,5,3,0,2,2.20,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+GD23,GD23-Promova a conscientização do usuário e a tomada de decisão sobre solicitações de permissão/autorização,9,2,2,5,1.67,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+GD24,GD24-Possibilite a exploração de exportações de dados,9,6,0,3,2.33,Raising Privacy Awareness,Visualising Disclosed Information
+GD25,GD25-Apoie a visualização e compreensão dos dados compartilhados,15,11,2,2,2.60,Raising Privacy Awareness,Visualising Disclosed Information

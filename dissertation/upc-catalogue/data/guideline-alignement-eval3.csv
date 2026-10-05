@@ -1,0 +1,26 @@
+Code,Guideline,Occurrences,Fully aligned,Partially aligned,Not aligned,Mean,Group,Subgroup
+GD25,GD25-Apoie a visualização e compreensão dos dados compartilhados,8,8,0,0,3,Raising Privacy Awareness,Visualising Disclosed Information
+GD2,GD2-Implemente estratégias visuais para a comunicação eficaz de políticas de privacidade,5,3,1,1,2.4,Improving Privacy Policy,Improving Privacy Policy Visual Presentation
+GD15,GD15-Forneça aos usuários ferramentas fáceis de usar para gerenciar suas configurações de privacidade,5,4,1,0,2.8,Controlling Information Disclosure,Managing Privacy Settings
+GD20,GD20-Incentive os usuários a considerarem as implicações para a privacidade antes do compartilhamento online,5,5,0,0,3,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+GD1,GD1-Implemente interfaces de políticas de privacidade interativas,3,2,1,0,2.7,Improving Privacy Policy,Improving Privacy Policy Visual Presentation
+GD3,GD3-Incorpore ícones para melhorar a comunicação da política de privacidade,2,2,0,0,3,Improving Privacy Policy,Improving Privacy Policy Visual Presentation
+GD6,GD6-Melhore os controles de privacidade do usuário em aplicativos móveis,2,1,1,0,2.5,Controlling Information Disclosure,Managing App Permissions
+GD12,GD12-Implemente formulários de consentimento interativos para maior envolvimento do usuário,2,0,2,0,2,Controlling Information Disclosure,Managing Privacy Settings
+GD21,GD21-Aumente a conscientização sobre privacidade comunicando riscos de privacidade,2,2,0,0,3,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+GD24,GD24-Possibilite a exploração de exportações de dados,2,2,0,0,3,Raising Privacy Awareness,Visualising Disclosed Information
+GD4,GD4-Melhore a comunicação da política de privacidade com extração automatizada de informações,1,1,0,0,3,Improving Privacy Policy,Improving Privacy Policy Readability
+GD17,GD17-Melhore o gerenciamento de privacidade colaborativa no compartilhamento de fotos,1,1,0,0,3,Controlling Information Disclosure,Managing Multiparty Privacy
+GD19,GD19-Comunique o risco para a privacidade com indicadores de privacidade codificados por cores,1,1,0,0,3,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+GD23,GD23-Promova a conscientização do usuário e a tomada de decisão sobre solicitações de permissão/autorização,1,1,0,0,3,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
+GD5,GD5-Melhore a comunicação da política de privacidade por meio de ferramentas de avaliação,0,0,0,0,,Improving Privacy Policy,Advancing Privacy Policy Assessment
+GD7,GD7-Integre indicadores de privacidade para seleção informada de aplicativos,0,0,0,0,,Controlling Information Disclosure,Managing App Permissions
+GD8,GD8-Promova a tomada de decisão automatizada para controles de privacidade de usuário aprimorados em aplicativos móveis,0,0,0,0,,Controlling Information Disclosure,Managing App Permissions
+GD9,GD9-Melhore o controle parental em brinquedos inteligentes,0,0,0,0,,Controlling Information Disclosure,Managing Privacy Settings
+GD10,GD10-Explore diversas técnicas para controle de privacidade,0,0,0,0,,Controlling Information Disclosure,Managing Privacy Settings
+GD11,GD11-Implemente armazenamento integrado de dados pessoais para permitir que os usuários armazenem e gerenciem seus dados pessoais,0,0,0,0,,Controlling Information Disclosure,Managing Privacy Settings
+GD13,GD13-Integre ferramentas automatizadas para descoberta e aplicação de configurações de privacidade,0,0,0,0,,Controlling Information Disclosure,Managing Privacy Settings
+GD14,GD14-Promova recomendações personalizadas para um gerenciamento aprimorado das configurações de privacidade do usuário,0,0,0,0,,Controlling Information Disclosure,Managing Privacy Settings
+GD16,GD16-Incentive a consideração do gerenciamento de privacidade interdependente em aplicativos de nuvem,0,0,0,0,,Controlling Information Disclosure,Managing Multiparty Privacy
+GD18,GD18-Implemente gerenciamento de privacidade colaborativo para dados compartilhados em redes sociais,0,0,0,0,,Controlling Information Disclosure,Managing Multiparty Privacy
+GD22,GD22-Implemente notificações de privacidade multivisualização personalizáveis pelo usuário,0,0,0,0,,Raising Privacy Awareness,Assessing Risk and Nudging Privacy Behaviour
